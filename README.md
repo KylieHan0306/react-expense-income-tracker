@@ -30,7 +30,7 @@ To run the app locally:
 ### Screenshots
 ![Screenshot 1](screen_shots/Bookkeeping01.png)
 
-![Screenshot 2](screen_shots/Bookkeeping01.png)
+![Screenshot 2](screen_shots/Bookkeeping02.png)
 
 ![Screenshot 3](screen_shots/Monthly.png)
 
